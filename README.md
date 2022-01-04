@@ -12,4 +12,4 @@ when you enter the program you will see a black screen
 * Enter- shows you the shortest path from the start node to the end node using dijkstra.
 * Shift + Enter- shows you the shortest path from the start node to every other node step by step using dijkstra (press enter to move to the next step).
 * M- shows you the Min Spanning Tree with the node that your mouse is on.
-* M- shows you how the Min Spanning Tree is created using kruskal algorithem step by step (press enter to move to the next step).
+* Shift + M- shows you how the Min Spanning Tree is created using kruskal algorithem step by step (press enter to move to the next step).
