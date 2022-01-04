@@ -7,5 +7,8 @@ when you enter the program you will see a black screen
 * Left click- Create a new node
 * Right click- RClick on 2 nodes one after the other to connect them with an edge
   the starting dis will be the dis in pixels, you can change it with backspace and the digit buttons after you create the edge.
+* S- set the node the mouse is on to the start node.
+* E- set the node the mouse is on to the end node
 * Enter- shows you the shortest path from the start node to the end node using dijkstra.
-* 
+* Shift + Enter- shows you the shortest path from the start node to every other node step by step using dijkstra (press enter to move to the next step).
+
